@@ -5,6 +5,6 @@
 ![Hidemaru 8.66](https://img.shields.io/badge/Hidemaru-v8.66-6479ff.svg)
 
 このプログラムは、漢字とひらがなの組み合わせである日本語の文字列を読み取り、
-「分かち書き分割」や「ルビ振り」を「自動的に行う」ための秀丸マクロ・プラグインプログラムです。
+「分かち書き分割」や「ルビ振り」を「自動的に行う」ための秀丸マクロ・コンポーネントです。
 
 [https://秀丸マクロ.net/?page=nobu_tool_hm_japanesephonetic_analyzer](https://秀丸マクロ.net/?page=nobu_tool_hm_japanesephonetic_analyzer)
